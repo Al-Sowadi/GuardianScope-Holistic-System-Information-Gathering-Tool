@@ -29,8 +29,49 @@ This script is designed to collect and analyze various system-related informatio
 
 ## Usage
 
-1. Clone the repository:
+1. **Prerequisites:**
+   - Ensure you have Python installed on your system.
+   - Install the required dependencies using the provided `requirements.txt` file:
+     ```bash
+     pip install -r requirements.txt
+     ```
 
-   ```bash
-   git clone https://github.com/yourusername/system-info-collector.git
-   cd system-info-collector
+2. **Run the Script:**
+   - Execute the `main.py` file:
+     ```bash
+     python main.py
+     ```
+   - Follow the on-screen prompts to select specific tasks or run all tasks at once.
+
+## Tasks
+
+The script supports the following tasks:
+
+1. **Collect System Information**
+2. **Collect Environment Information**
+3. **Collect Security Events**
+4. **USB Devices and Processes**
+5. **User Sessions and Updates**
+6. **Registry and Network Information**
+7. **Scheduled Tasks**
+8. **Network Analysis**
+9. **Chrome Browser Passwords Analysis**
+10. **Chrome Search History**
+
+## Requirements
+
+- Python 3.x
+- pandas
+- openpyxl
+- psutil
+- winreg (Windows Registry access)
+- appdirs
+- openai (for language model interaction)
+- Cryptodome
+
+Install the required dependencies using the following command:
+```bash
+pip install -r requirements.txt
+
+
+

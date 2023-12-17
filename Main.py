@@ -655,8 +655,14 @@ def extract_and_save_passwords():
     except Exception as e:
         print("[ERR] %s" % str(e))
 
+# Function to create the "AllOutput" folder if it doesn't exist
+def create_output_folder():
+    output_folder = "AllOutput"
+    os.makedirs(output_folder, exist_ok=True)
 
 def main():
+    
+    create_output_folder()
     while True:
         print("\nChoose a task to run:")
         print("1. Collect System Information")

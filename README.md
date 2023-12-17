@@ -58,6 +58,22 @@ The script supports the following tasks:
 9. **Chrome Browser Passwords Analysis**
 10. **Chrome Search History**
 
+
+## Disclaimer
+
+**Disclaimer:**
+
+This script is provided for educational and informational purposes only. The authors and contributors are not responsible for any misuse or damage caused by the use of this script. Users are solely responsible for compliance with all applicable laws and ethical standards. The script may collect and process sensitive information, and it is the user's responsibility to use it responsibly and in accordance with legal and ethical guidelines.
+
+**Use at Your Own Risk:** The authors and contributors make no warranties, express or implied, regarding the accuracy, completeness, or suitability of the script for any particular purpose. The use of this script is at your own risk.
+
+**Legal Notice:** Please be aware that unauthorized access, data collection, and other activities may violate local, state, and federal laws. It is your responsibility to ensure that your use of this script complies with all relevant laws and regulations.
+
+**No Support:** This script is provided as-is, and the authors and contributors may not provide support or assistance related to its usage, modification, or any issues that may arise. Users are encouraged to understand the code and customize it based on their needs.
+
+By using this script, you agree to the terms and conditions outlined in this disclaimer.
+
+
 ## Requirements
 
 - Python 3.x
@@ -72,6 +88,7 @@ The script supports the following tasks:
 Install the required dependencies using the following command:
 ```bash
 pip install -r requirements.txt
+
 
 
 

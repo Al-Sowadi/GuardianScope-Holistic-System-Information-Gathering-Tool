@@ -1,5 +1,39 @@
 # GuardianScope-Holistic-System-Information-Gathering-Tool
+
+- [Introduction](#guardianscope-holistic-system-information-gathering-tool)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+  - [Required Python packages](#required-python-packages)
+  - [Permissions](#permissions)
+- [Usage](#usage)
+  - [1. Prerequisites](#1-prerequisites)
+  - [2. Run the Script](#2-run-the-script)
+- [Tasks](#tasks)
+  - [1. Collect System Information](#1-collect-system-information)
+  - [2. Collect Environment Information](#2-collect-environment-information)
+  - [3. Collect Security Events](#3-collect-security-events)
+  - [4. USB Devices and Processes](#4-usb-devices-and-processes)
+  - [5. User Sessions and Updates](#5-user-sessions-and-updates)
+  - [6. Registry and Network Information](#6-registry-and-network-information)
+  - [7. Scheduled Tasks](#7-scheduled-tasks)
+  - [8. Network Analysis](#8-network-analysis)
+  - [9. Chrome Browser Passwords Analysis](#9-chrome-browser-passwords-analysis)
+  - [10. Chrome Search History](#10-chrome-search-history)
+- [Disclaimer](#disclaimer)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage Examples](#usage-examples)
+- [Troubleshooting](#troubleshooting)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [Contact Information](#contact-information)
+- [Changelog](#changelog)
+- [Testing](#testing)
+
+## Introduction
 This script is designed to collect and analyze various system-related information on a Windows machine. It covers a range of tasks, including gathering system details, environmental information, security events, USB devices, running processes, user sessions, Windows updates, registry information, network details, and more.
+
 
 ## Features
 

@@ -1,1 +1,8 @@
+pandas==1.3.3
+openpyxl==3.0.15
+psutil==5.8.0
+appdirs==1.4.4
+pycryptodome==3.11.0
+pywin32==302
+openai==0.27.2
 
